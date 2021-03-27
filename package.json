@@ -1,0 +1,28 @@
+{
+  "name": "idroo-crash",
+  "version": "1.0.0",
+  "description": "Crashes idroo boards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumbasPL/idroo-crash.git"
+  },
+  "keywords": [
+    "idroo",
+    "crash",
+    "exploit"
+  ],
+  "author": "nezu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumbasPL/idroo-crash/issues"
+  },
+  "homepage": "https://github.com/dumbasPL/idroo-crash#readme",
+  "dependencies": {
+    "socket.io-client": "2.4.0",
+    "yargs": "^16.2.0"
+  }
+}
