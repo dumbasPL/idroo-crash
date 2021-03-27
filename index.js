@@ -4,7 +4,7 @@ const io = require('socket.io-client');
 
 const argv = yargs.option('board', {
     alias: 'b',
-    description: 'Board id (can be found in ur as idroo.com/board-<id here>)',
+    description: 'Board id (can be found in url as idroo.com/board-<id here>)',
     type: 'string',
     requiresArg: true,
     demandOption: true,
