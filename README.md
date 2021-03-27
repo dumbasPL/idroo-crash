@@ -2,9 +2,10 @@
 Crashes idroo boards
 
 ## Install
-1. git clone https://github.com/dumbasPL/idroo-crash
-2. cd idroo-crash
-3. npm install
+make sure you have node and npm installed
+1. `git clone https://github.com/dumbasPL/idroo-crash`
+2. `cd idroo-crash`
+3. `npm install`
 
 ## Usage
 ```
@@ -15,5 +16,5 @@ Options:
                                                              [string] [required]
   -h, --help     Show help                                             [boolean]
 ```
-### Example
+### Usage example
 `node index.js -b Xs6mcx0xjK`
