@@ -18,3 +18,6 @@ Options:
 ```
 ### Usage example
 `node index.js -b Xs6mcx0xjK`
+
+## Demo
+[https://youtu.be/jq1sUPXeZxI](https://youtu.be/jq1sUPXeZxI)
