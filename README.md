@@ -1,5 +1,5 @@
 # idroo-crash
-Crashes idroo boards
+Crashes IDroo boards
 
 ## Install
 make sure you have node and npm installed
