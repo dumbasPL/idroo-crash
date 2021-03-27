@@ -12,7 +12,7 @@ make sure you have node and npm installed
 $ node index.js -h
 Options:
       --version  Show version number                                   [boolean]
-  -b, --board    Board id (can be found in ur as idroo.com/board-<id here>)
+  -b, --board    Board id (can be found in url as idroo.com/board-<id here>)
                                                              [string] [required]
   -h, --help     Show help                                             [boolean]
 ```
