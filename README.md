@@ -1,3 +1,7 @@
+# **!!! DEPRECATED !!!**
+
+IDroo no longer uses socket.io to comunicate
+
 # idroo-crash
 Crashes IDroo boards
 
